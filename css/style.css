@@ -91,6 +91,14 @@ nav {
  .banner .Banners{
      margin-bottom: 70px;
  }
+ .banner .banner-button2{
+    position: relative;
+ }
+ .banner .banner-button2 .icon {
+    position: absolute;
+    top: 22px;
+    right: 25px;
+}
 
 /* ============================================
  banner section end
